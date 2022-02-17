@@ -1,0 +1,25 @@
+{
+  "name": "random-messages-dsv",
+  "version": "1.0.0",
+  "description": "Random messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Random",
+    "messages",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "David Saavedra Vazquez <davidsv20@icloud.com>",
+  "license": "ISC",
+  "bin": {
+    "randomMessages": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
