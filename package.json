@@ -16,10 +16,19 @@
   "author": "David Saavedra Vazquez <davidsv20@icloud.com>",
   "license": "ISC",
   "bin": {
-    "randomMessages": "./bin/global.js"
+    "randomMessages": "bin/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
     "user": "^0.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveSV100/npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DaveSV100/npm/issues"
+  },
+  "homepage": "https://github.com/DaveSV100/npm#readme"
 }
